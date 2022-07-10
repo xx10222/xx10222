@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 염지원입니다!👋
+### 안녕하세요 꾸준하게 성장하는 염지원입니다!👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxx10222)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
